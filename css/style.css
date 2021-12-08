@@ -204,6 +204,7 @@ header {
     right: 1em;
     top: 1em;
     z-index: 1000;
+    margin-left: 70rem;
 }
 
 .nav-open .nav {
